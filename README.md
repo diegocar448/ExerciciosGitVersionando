@@ -1,0 +1,9 @@
+# ExerciciosGitVersionando
+
+---
+
+Praticando versionamento
+
+
+---
+
